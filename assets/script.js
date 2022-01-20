@@ -17,7 +17,7 @@ messages.push("I wrote a song though but it wasn't completed");
 messages.push("John Oye 🤟.");
 
 window.onload = () => {
-    alert(`Click on the card to see next message`);
+    alert(`Click on the card to see next message and listen to this 2020 song while you read...`);
 var box = document.getElementById("box");
 
 var c = 0;
